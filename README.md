@@ -1,4 +1,10 @@
-# SSJ
+# SSJ with tools for network flow problems  (under construction)
+
+IMPORTANT:  This is NOT a bew version of SSJ.  This repository contains a version of SSJ from 2018, 
+together with several classes that are under construction (incomplete), to handle graphs and networks
+and implement various reliability and flow algorithms.
+
+=========================================================================
 
 *Stochastic Simulation in Java*
 
