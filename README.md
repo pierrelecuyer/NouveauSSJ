@@ -4,6 +4,9 @@ IMPORTANT:  This is NOT a new version of SSJ.  This repository contains an old v
 together with several classes that are under construction (incomplete), to handle graphs and networks
 and implement various reliability and flow algorithms.   It was forked from  shmodal (Sofiane Hadji).
 
+The rest of this README file (below) was copied directly from the SSJ repository and is not
+specific to the present one.
+
 =========================================================================
 
 *Stochastic Simulation in Java*
