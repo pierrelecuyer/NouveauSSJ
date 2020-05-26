@@ -1,8 +1,8 @@
 # SSJ with tools for network flow problems  (under construction)
 
-IMPORTANT:  This is NOT a bew version of SSJ.  This repository contains a version of SSJ from 2018, 
+IMPORTANT:  This is NOT a new version of SSJ.  This repository contains an old version of SSJ from 2018, 
 together with several classes that are under construction (incomplete), to handle graphs and networks
-and implement various reliability and flow algorithms.
+and implement various reliability and flow algorithms.   It was forked from  shmodal (Sofiane Hadji).
 
 =========================================================================
 
